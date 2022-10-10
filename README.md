@@ -1,2 +1,2 @@
 # credit-risk-analysis
-to find out where the client is eligible to get the loan or to know whether the client will be able to pay the loan without deafault.this credit risk analysis is used by the orgaisation based on the credit worthiness of the cilent by validating the past history of the client.
+Credit Risk  is one of the risk faced by lenders when they give credit to the customers. This projects analyses the credit worthiness of a client based on his past credit history and help the lenders decide whether a client will repay the loan or default.
